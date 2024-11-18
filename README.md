@@ -8,3 +8,10 @@ The official training data (use this to train your model):
  - Three sets of different HOG features (GTSRB_Final_Training_HOG.zip)
  - Haar-like features (GTSRB_Final_Training_Haar.zip)
  - Hue histograms (GTSRB_Final_Training_HueHist.zip)
+
+The official test dataset (use this to test your model):
+ - Images and annotations (without ground truth classes) (GTSRB_Final_Test_Images.zip)
+ - Extended ground truth annotations (with classes) (GTSRB_Final_Test_GT.zip)
+ - Three sets of different HOG features (GTSRB_Final_Test_HOG.zip)
+ - Haar-like features (GTSRB_Final_Test_Haar.zip)
+ - Hue histograms (GTSRB_Final_Test_HueHist.zip)
